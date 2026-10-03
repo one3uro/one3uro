@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi, I'm Zee.
+I'm an aspiring machine learning engineer/Ai engineer based in the UK.
+I mainly work on machine learning algorithms and pipelines, and sometimes website development.
+Additionally, work with Local AI Models and LLMs.
+If I get an idea I like to build it and polish it first as much as I can before I upload it.
 
+My Main Tech stack is Python, HTML, JS, SQL, PHP, CSS, C, and Arduino's IDE Language (Essentially C++)
+
+I have a few projects I'm working on to perfect before putting them in my repos hence why my page is empty.
+
+If you would like to reach me, My LinkedIn profile page is in my profile!
 <!--
 **one3uro/one3uro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
