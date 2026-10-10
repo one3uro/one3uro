@@ -1,6 +1,6 @@
 ## Hi, I'm Zee.
 I'm an aspiring machine learning engineer/Ai engineer based in the UK.
-I mainly work on machine learning algorithms and pipelines, and sometimes website development.
+I mainly work on machine learning algorithms and pipelines, and sometimes website development and basic scripts.
 Additionally, work with Local AI Models and LLMs.
 If I get an idea I like to build it and polish it first as much as I can before I upload it.
 
