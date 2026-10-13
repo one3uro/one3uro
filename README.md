@@ -9,6 +9,13 @@ My Main Tech stack is Python, HTML, JS, SQL, PHP, CSS, C, and Arduino's IDE Lang
 I have a few projects I'm working on to perfect before putting them in my repos hence why my page is empty.
 
 If you would like to reach me, My LinkedIn profile page is in my profile!
+
+
+<a href="https://stats.hyo.dev/stats/one3uro"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=one3uro" width="600" /></a>
+
+<a href="https://stats.hyo.dev/stats/one3uro"><img src="https://stats.hyo.dev/api/github-trophies?login=one3uro" width="600" /></a>
+
+
 <!--
 **one3uro/one3uro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
