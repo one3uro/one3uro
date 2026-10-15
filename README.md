@@ -15,7 +15,7 @@ If you would like to reach me, My LinkedIn profile page is in my profile!
 
 <a href="https://stats.hyo.dev/stats/one3uro"><img src="https://stats.hyo.dev/api/github-trophies?login=one3uro" width="600" /></a>
 
-![github-trophies](https://stats.hyo.dev/api/github-trophies?login=hyochan)
+
 <!--
 **one3uro/one3uro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
