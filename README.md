@@ -13,7 +13,7 @@ If you would like to reach me, My LinkedIn profile page is in my profile!
 
 <a href="https://stats.hyo.dev/stats/one3uro"><img src="https://stats.hyo.dev/api/github-stats-advanced?login=one3uro" width="600" /></a>
 
-<a href="https://stats.hyo.dev/stats/one3uro"><img src="https://stats.hyo.dev/api/github-trophies?login=one3uro" width="600" /></a>
+
 
 
 <!--
